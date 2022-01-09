@@ -27,3 +27,7 @@ which moc
 
 # Run compiler with both base library and source code
 moc --package base $(dfx cache show)/base -r <sourcecode file path>
+
+# Get canister id
+dfx canister id __Candid_UI
+dfx canister id counter

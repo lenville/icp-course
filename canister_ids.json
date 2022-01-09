@@ -1,8 +1,9 @@
 {
-  "lenville": {
-    "ic": "cp22s-laaaa-aaaai-qbfqa-cai"
+  "counter": {
+    "ic": "r2hy3-kyaaa-aaaai-qbkzq-cai"
   },
-  "lenville_assets": {
-    "ic": "ci34g-gyaaa-aaaai-qbfqq-cai"
-  }
+  "counter_assets": {
+    "ic": "rpajw-lqaaa-aaaai-qbk2a-cai"
+  },
+  "lenville": {}
 }

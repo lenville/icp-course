@@ -14,6 +14,20 @@
       "dependencies": [
         "lenville"
       ]
+    },
+
+    "counter": {
+      "type": "motoko",
+      "main": "src/counter/main.mo"
+    },
+    "counter_assets": {
+      "type": "assets",
+      "source": [
+        "src/counter_assets/assets"
+      ],
+      "dependencies": [
+        "counter"
+      ]
     }
   },
   "defaults": {
