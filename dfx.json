@@ -28,6 +28,15 @@
       "dependencies": [
         "counter"
       ]
+    },
+
+    "microblog": {
+      "type": "motoko",
+      "main": "src/microblog/main.mo"
+    },
+    "microblog1": {
+      "type": "motoko",
+      "main": "src/microblog/main.mo"
     }
   },
   "defaults": {

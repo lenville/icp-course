@@ -1,9 +1,11 @@
 {
-  "counter": {
-    "ic": "r2hy3-kyaaa-aaaai-qbkzq-cai"
+  "counter": {},
+  "counter_assets": {},
+  "lenville": {},
+  "microblog": {
+    "ic": "lpuoj-5qaaa-aaaai-qfhwa-cai"
   },
-  "counter_assets": {
-    "ic": "rpajw-lqaaa-aaaai-qbk2a-cai"
-  },
-  "lenville": {}
+  "microblog1": {
+    "ic": "livi5-qiaaa-aaaai-qfhwq-cai"
+  }
 }
