@@ -1,27 +1,14 @@
 {
   "canisters": {
-    "microblog": {
-      "main": "src/microblog/main.mo",
+    "logger": {
+      "main": "src/logger/main.mo",
       "type": "motoko"
-    },
-    "microblog_assets": {
-      "dependencies": [
-        "microblog"
-      ],
-      "frontend": {
-        "entrypoint": "src/microblog_assets/src/index.html"
-      },
-      "source": [
-        "src/microblog_assets/assets",
-        "dist/microblog_assets/"
-      ],
-      "type": "assets"
     }
   },
   "defaults": {
     "build": {
       "args": "",
-      "packtool": ""
+      "packtool": "vessel sources"
     }
   },
   "dfx": "0.8.4",

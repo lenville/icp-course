@@ -16,3 +16,6 @@ dist/
 
 # test files for development
 test
+
+# vessel packages
+.vessel
